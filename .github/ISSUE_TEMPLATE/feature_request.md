@@ -1,20 +1,31 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
+about: Suggest an idea for Volume Guard Normalizer
+title: "[Feature] "
+labels: enhancement
 assignees: ''
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## Suggested feature / 제안 기능
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Describe the feature you want to add.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## Problem to solve / 해결하려는 문제
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+What problem or inconvenience would this feature solve?
+
+## Desired behavior / 원하는 동작
+
+Describe how you expect the feature to work.
+
+## Alternatives / 대안
+
+Describe any alternative solutions, settings, or workflows you considered.
+
+## Use scenario / 사용 시나리오
+
+Where would you use this feature? Example: YouTube Music, YouTube, Twitch, lectures, live streams, etc.
+
+## Additional information / 추가 정보
+
+Add screenshots, mockups, examples, or extra context if helpful.
